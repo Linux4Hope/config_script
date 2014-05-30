@@ -1,5 +1,11 @@
+About
+======
+
 This folder provides scripts that are intended to run after installing the OS on
 the computer. 
+
+Instructions
+-------------
 
 Installers may download the respective script for the installed Operating 
 System into a folder and run it there.  An example to run the script is below.
