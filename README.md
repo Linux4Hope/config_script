@@ -1,7 +1,7 @@
 About
 ======
 
-This folder provides scripts that are intended to run after installing the OS on
+This repository provides scripts that are intended to run after installing the OS on
 the computer. 
 
 Instructions
