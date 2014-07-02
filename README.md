@@ -14,7 +14,7 @@ Make sure the computer is connected to the Internet.
 1. Download the script to the Desktop folder.
 
 2. Open terminal and type in:
-	cd /home/Desktop
+	cd /home/username/Desktop
 
 3. In the terminal type in:
 
