@@ -63,6 +63,11 @@ echo "Cleaned up packages in the system."
 
 echo -e "----------------------------------- \n----------------------------------- \n*********************************** \n----------------------------------- \n-----------------------------------"
 
+echo "Removing Config Script"
+rm ubuntu_14_04.sh
+
+echo -e "----------------------------------- \n----------------------------------- \n*********************************** \n----------------------------------- \n-----------------------------------"
+
 #End of processes.  Now having the computer to shutdown.
 sudo -v
 echo -e "End of Script. The computer will now shutdown. \nShutdown Process initiated!"
