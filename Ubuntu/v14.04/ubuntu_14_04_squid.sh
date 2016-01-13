@@ -68,7 +68,7 @@ echo -e "----------------------------------- \n---------------------------------
 
 sudo -v
 echo "Uninstalling squid-deb-proxy-client"
-sudo apt-get purge squid-deb-proxy-client
+sudo apt-get purge -y squid-deb-proxy-client
 echo "Removed squid-deb-proxy-client and its configuration files."
 
 
