@@ -8,7 +8,7 @@
 #For example, if the script is saved in the Desktop folder(on the desktop), if the username is 'linux4hope', go to terminal and enter, 'cd /home/linux4hope/Desktop'
 #Next, enter 'source ubuntu.sh', enter the password (entering the password will be shown as blank), hit enter, and the script shall run.
 
-#This script is intended to run on computers that would pull updates from the a server on LAN. squid-deb-proxy-server must be on another computer and
+#This script is intended to run on computers that would pull updates from a server on LAN. squid-deb-proxy-server must be on another computer and
 #running on the same LAN. This script will install the squid-deb-proxy client on this computer and then remove and clean up afterwards. This script is ideal for
 #multiple installations where the adminstrator would like to reduce bandwith and speed up updates.
 
